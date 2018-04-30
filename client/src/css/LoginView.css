@@ -1,0 +1,40 @@
+/* .login-view {
+    width: 1200px;
+    min-width: 1200px;
+} */
+
+.login-view {
+  /* margin-top: 15px;
+  margin-left: 15px;
+  width: 1200px;
+  min-width: 1200px; */
+
+  /* margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 800px;
+  height: 600px;
+  display: inline-block; */
+  /* vertical-align: top; */
+}
+
+.app-logo {
+  margin: 10px auto;
+  display: block;
+}
+
+.user-profile-wrapper {
+  margin: 10px auto;
+
+}
+
+.user-profile-avatar {
+  width: 32px;
+  margin: 10px auto;
+
+}
+.user-profile-twitter-login {
+  width: 170px;
+  margin: 10px auto;
+
+}

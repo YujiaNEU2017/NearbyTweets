@@ -1,0 +1,17 @@
+body{
+  background-color: #F0F0F0;
+}
+
+.ant-tabs-bar{
+  margin-bottom: 0px;
+  background-color: white;
+  padding-right: 10px;
+}
+
+.ant-tabs-tabpane{
+  overflow-x: scroll;
+}
+
+.loading-icon {
+  font-size: 30px;
+}

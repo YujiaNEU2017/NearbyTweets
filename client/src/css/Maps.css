@@ -1,0 +1,9 @@
+#map {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 800px;
+  height: 600px;
+  display: inline-block;
+  vertical-align: top;
+}

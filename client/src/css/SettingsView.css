@@ -1,0 +1,27 @@
+.settings-view {
+  
+}
+
+#radius-group-radius {
+  width: 188px;
+  margin: 0px auto;
+  display: block;
+}
+
+#radius-group-number {
+  width: 140px;
+  margin: 0px auto;
+  display: block;
+}
+
+#input-tag {
+  width: 200px;
+  margin: 0px auto;
+  display: block;
+}
+
+#button-save-settings {
+  width: 144px;
+  margin: 0px auto;
+  display: block;
+}

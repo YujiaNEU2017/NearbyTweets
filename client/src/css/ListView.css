@@ -1,0 +1,31 @@
+.list-view {
+  width: 1200px;
+  min-width: 1200px;
+  height: 100%;
+}
+
+.list {
+  margin: auto 10px;
+  width: 800px;
+  display: inline-block;
+  vertical-align: top;
+  min-height: 644px;
+  padding-bottom: 60px;
+}
+
+.ant-list-item-content {
+  justify-content: flex-start;
+}
+
+.ant-list-item {
+  height: 110px;
+}
+
+.ant-list-pagination {
+  background-color: #F0F0F0;
+  width: 800px;
+  margin-top: 0px;
+  position: fixed;
+  bottom: 0px;
+  z-index: 99;
+}

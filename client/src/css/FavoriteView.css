@@ -1,0 +1,36 @@
+.favorite-view {
+  width: 1200px;
+  min-width: 1200px;
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 100%;
+}
+
+.favorite-view-alert {
+  width: 400px;
+  margin: 10px auto;
+}
+
+.favorite-list {
+  columns: 3 auto;
+  min-height: 600px;
+  padding-bottom: 60px;
+}
+
+.favorite-list-pagination {
+  background-color: #F0F0F0;
+  width: 100%;
+  z-index: 99;
+  position: fixed;
+  bottom: 0px;
+}
+
+.ant-pagination {
+  text-align: center;
+  margin: 15px auto;
+}
+
+.ant-pagination-total-text {
+  width: 120px;
+  display: inline-block;
+}
