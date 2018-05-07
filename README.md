@@ -1,4 +1,4 @@
-# Nearby Tweets (project-sapphire)
+# Nearby Tweets (project-nearbytweets)
 ## Overview
 This Web App is a location-based nearby tweets finder.<br>
 Users can **browse detail/like/retweet/favorite** their nearby tweets with corresponding **user settings**.<br>
