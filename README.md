@@ -2,7 +2,7 @@
 ## Overview
 This Web App is a location-based nearby tweets finder.<br>
 Users can **browse detail/like/retweet/favorite** their nearby tweets with corresponding **user settings**.<br>
-Heroku link: [https://project-sapphire.herokuapp.com](https://project-sapphire.herokuapp.com)
+Heroku link: [https://project-nearbytweets.herokuapp.com](https://project-nearbytweets.herokuapp.com)
 
 ## User Manual
 This App is consisted of 4 primary Tab pages:<br>
