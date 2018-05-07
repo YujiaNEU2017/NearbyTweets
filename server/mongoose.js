@@ -2,8 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 module.exports = () => {
-
-  const db = mongoose.connect('mongodb://sapphire:sapphire@ds237379.mlab.com:37379/heroku_9nvm5pxf');
+  const db = mongoose.connect('mongodb://sapphire:sapphire@ds139964.mlab.com:39964/heroku_l256z6b8');
 
   const UserSchema = new Schema({
     email: {
